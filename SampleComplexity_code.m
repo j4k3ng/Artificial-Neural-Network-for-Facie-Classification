@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% COMPLETE BRUTE FORCE CODE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% COMPLETE SAMPLE COMPLEXITY CODE
 %DATA_DIVIDED_NOF9_NOFEATURES.mat is needed
 %% set global variables
 global AccuracyM1_tot; global AccuracyM1_test; global AccuracyM2_tot; global AccuracyM2_test; global AccuracyM3_test; global AccuracyM3_tot;
