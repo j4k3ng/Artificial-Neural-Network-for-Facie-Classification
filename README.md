@@ -1,7 +1,7 @@
 # Facies-Classification-ANN
 Application of ANN to the lithofacies classification in the oil and gas industry
 
-HOW TO RUN THE CODES:
+HOW TO RUN THE CODE:
 
 If you want to peform the facies classification study using ANN with the original dataset do the follow:
 1) Load the OriginalDataset.mat 
