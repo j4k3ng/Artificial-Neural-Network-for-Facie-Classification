@@ -1,4 +1,5 @@
-# Facies-Classification-ANN
+# Facies Classification ANN (Published article in Article.pdf)
+
 Application of ANN to the lithofacies classification in the oil and gas industry
 
 HOW TO RUN THE CODE:
